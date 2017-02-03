@@ -24,7 +24,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.github.mdjc</groupId>
-			<artifactId>commons</artifactId>
+			<artifactId>commons-java8</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
